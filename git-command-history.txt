@@ -1,0 +1,63 @@
+   
+    7  git clone git@github.com:kiran-narkhede/git-test.git 
+    8  git init
+    9  git config --local user.email kirannarkhede19@gmail.com
+   10  git config --local user.name "kiran-narkhede" 
+   11  git clone git@github.com:kiran-narkhede/git-test.git
+   12  git remote add origin git@github.com:kiran-narkhede/confusion.git
+   13  git clone git@github.com:kiran-narkhede/git-test.git
+   14  git clone git@github.com:kiran-narkhede/confusion.git
+   15  ssh-keygen -t rsa -C "kirannarkhede19@gmail.com"" -b 4096
+   16  ssh-keygen -t rsa -C "kirannarkhede19@gmail.com" -b 4096
+   17  git clone git@github.com:kiran-narkhede/git-test.git
+   18  git status
+   19  git remote add origin git@github.com:kiran-narkhede/confusion.git
+   20  git clone -b day1 git@github.com:kiran-narkhede/confusion.git
+   21  git clone -b day1 
+   22  git checkout -b day1 
+   23  git clone -b day1 git@github.com:kiran-narkhede/confusion.git
+   24  git status
+   25  mkdir javaScripts
+   26  cd javaScripts/
+   27  git init
+   28  git clone https://github.com/kiran-narkhede/javaScript.git
+   29  git --config --list
+   30  git config --local --list
+   31  git config --global --list
+   32  git config --local user.email kirannarkhede19@gmail.com
+   33  git config --local user.name "kiran-narkhede"
+   34    git remote add origin https://github.com/kiran-narkhede/javaScript.git
+   35  git status
+   36  git add .
+   37  git rm --catched
+   38  git rm --catched javaScript/hello.txt
+   39  git add .
+   40  git init
+   41  git clone https://github.com/kiran-narkhede/javaScript.git
+   42  git status
+   43  git clone https://github.com/kiran-narkhede/javaScript.git
+   44  git status
+   45  git status
+   46  git status
+   47  git add ,
+   48  git add .
+   49  git status
+   50  git commit -m "lappy"
+   51  git config --global user.name "kiran-narkhede"
+   52  git config --global user.email kirannarkhede19@gmail.com
+   53  git commit -m "lappy"
+   54  git commit -m "lappy" rem
+   55  git remote add origin https://github.com/kiran-narkhede/javaScript.git
+   56  git push
+   57  git checkout branch2
+   58  git checkout -b braanch2
+   59  git status
+   60  git add .
+   61  git commit -m "lappy2"
+   62  git push
+   63    git push --set-upstream origin braanch2
+   64  git checkout master
+   65  git checkout braanch2
+   66  history
+   67  git checkout master
+   68  history > ./hello.txt 
